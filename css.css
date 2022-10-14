@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.clone {
+  height: 10vh;
+  width: 100%;
+}
+
+.back {
+  background-color: green;
+}
